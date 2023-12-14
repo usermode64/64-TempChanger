@@ -2,19 +2,17 @@
 
 ## Spoofing
 * Regedit Spoofer
-* Mac
 * Gpu
 * Guild
-* Bios Spoofer
 * Base Board
 * Number
-* Tracking File
-* Temp
-* Cache 
 * Guild
-* Raid 
-* Disks
 * Network
+
+## What we gonna add
+* Deep Cleaner For Fortnite
+* Raid0 Spoofing
+* Fix some buges on certain motherboards
 
 ## Info
 What is HWID Spoofer? When you play any computer product the developer will look at your HWID on your computer, this includes your modem, graphic card, motherboard, monitor, etc. Easy Anticheat is really nasty about finding all your information and catching new cheaters. We also have one of the best New World hacks online. We have the only working COD Warzone HWID Spoofer or on the market.
